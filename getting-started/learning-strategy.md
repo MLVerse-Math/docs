@@ -43,6 +43,7 @@ Use the concept in real-world projects.
 
 ## Learning Cycle
 
+```
 Theory
 ↓
 Mathematics
@@ -54,3 +55,4 @@ Visualization
 Project
 ↓
 Research
+```

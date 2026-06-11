@@ -13,6 +13,7 @@ Each repository focuses on a specific learning domain.
 
 ## Learning Flow
 
+```
 Mathematics
 ↓
 Machine Learning
@@ -26,6 +27,7 @@ Large Language Models
 AI Agents
 ↓
 MLOps
+```
 
 ---
 
@@ -33,6 +35,7 @@ MLOps
 
 Every repository follows a consistent format:
 
+```
 Repository
 │
 ├── README.md
@@ -43,6 +46,7 @@ Repository
 ├── Visualizations
 ├── Applications
 └── References
+```
 
 ---
 
